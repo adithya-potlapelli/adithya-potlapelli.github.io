@@ -1,0 +1,16 @@
+# Site navigation links
+
+- title: Home
+  url: /
+
+- title: Projects
+  url: /projects/
+
+- title: Posts
+  url: /posts/
+
+- title: Resume
+  url: /resume/
+
+- title: Contact
+  url: /contact/
